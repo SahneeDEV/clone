@@ -8,7 +8,11 @@
     "build": "tsc"
   },
   "author": "Sahnee.dev",
-  "license": "(c) Sahnee.dev, all rights reserved",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sahnee-DE/clone"
+  },
   "devDependencies": {
     "typescript": "^4.0.2"
   }
