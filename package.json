@@ -1,6 +1,6 @@
 {
   "name": "@sahnee/clone",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A dependency-free utility library for deep cloning plain objects.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
